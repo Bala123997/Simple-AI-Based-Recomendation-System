@@ -38,6 +38,8 @@ Writing clean and well-commented code
 
 ✅ Beginner-level code with clear comments
 
+
+
 📂 Project Structure
 
 ai_BasedRecommendationSystem/
@@ -55,6 +57,8 @@ Run the Program
 
 <img width="1920" height="1080" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/1ee9dab4-5b56-4724-abcc-5a5cf2f5ca7e" />
 
+
+
 📖 Supported Categories
 
 📚 Books → Programming and AI-related books
@@ -64,16 +68,19 @@ Run the Program
 If the user enters an unsupported category, the program will display:
 Sorry! No recommendations available for this category.
 
+
 🧑‍💻 Code Overview
 
 showRecommendations(String category) → Method to print recommendations based on user choice.
 main() → Runs the program, handles user input, and keeps looping until user types END.
+
 
 ✨ Future Improvements
 
 Add more categories (Music, Courses, Gadgets, etc.)
 Store recommendations in a file or database instead of hardcoding.
 Use AI/ML techniques for smarter recommendations.
+
 
 Acknowledgements 🙏
 

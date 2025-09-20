@@ -31,8 +31,11 @@ Writing clean and well-commented code
 🚀 Features
 
 ✅ User-friendly console interface
+
 ✅ Provides recommendations for Books, Movies, and Games
+
 ✅ Runs continuously until the user types END
+
 ✅ Beginner-level code with clear comments
 
 📂 Project Structure

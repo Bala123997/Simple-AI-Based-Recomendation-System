@@ -1,4 +1,3 @@
-package ai_BasedRecommendationSystem;
 //Simple Recommendation System in Java
 //This program recommends products based on user's favorite category
 //Program runs in a loop until user types END
@@ -50,3 +49,4 @@ public class SimpleRecommendation {
      sc.close(); // close scanner
  }
 }
+
